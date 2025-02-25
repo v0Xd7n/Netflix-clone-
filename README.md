@@ -36,25 +36,25 @@ To get started, follow these steps:
    ```
    git clone https://github.com/your-username/netflix-clone.git
 bash
-   ```
+   
 
 2. **Navigate to the project folder**:
-
-   ```bash
-   cd netflix-clone
    ```
+   cd netflix-clone
+  bash
+  
 
 3. **Install dependencies**:
 
-   ```bash
-   npm install
    ```
+   npm install
+  bash
 
 4. **Start the development server**:
 
-   ```bash
+    ```
    npm start
-   ```
+bash
 
 ---
 
