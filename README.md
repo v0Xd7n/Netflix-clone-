@@ -1,4 +1,3 @@
-```markdown
 # 🎬 Netflix Clone
 
 Welcome to the **Netflix Clone** project! 🔥 This is a fully responsive clone of the popular Netflix interface, designed to give you that familiar Netflix-style experience right in your browser! 🚀
@@ -34,7 +33,8 @@ To get started, follow these steps:
 
 1. **Clone the repository**:
 
-   ```bash
+   ```
+bash
    git clone https://github.com/your-username/netflix-clone.git
    ```
 
