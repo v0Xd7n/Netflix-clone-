@@ -17,9 +17,9 @@ Feel free to use this project for free, but before you grab the source code, don
 
 ## 📸 Screenshots
 
+![image](https://github.com/user-attachments/assets/bac8b83a-e4be-402d-be36-67573896dab7)
 ![image](https://github.com/user-attachments/assets/aef2ba40-af4e-4e65-9f7e-c112bd1c4a6b)
 ![image](https://github.com/user-attachments/assets/80e3f6a2-b2ec-45f7-a34a-d0ca56590b83)
-![image](https://github.com/user-attachments/assets/bac8b83a-e4be-402d-be36-67573896dab7)
 ![image](https://github.com/user-attachments/assets/6fa0b8b2-4e35-4e72-9b49-d1cf109c1b8b)
 ![image](https://github.com/user-attachments/assets/453234ef-9010-4bbc-a305-e3779eea9829)
 ![image](https://github.com/user-attachments/assets/d2912964-c94d-4322-a19d-f762c28bd62b)
@@ -34,8 +34,8 @@ To get started, follow these steps:
 1. **Clone the repository**:
 
    ```
-bash
    git clone https://github.com/your-username/netflix-clone.git
+bash
    ```
 
 2. **Navigate to the project folder**:
