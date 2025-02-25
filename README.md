@@ -60,7 +60,7 @@ bash
 
 ## 🌐 Live Demo
 
-Want to see it in action? Check out the live demo here: [Netflix Clone Demo]()
+Want to see it in action? Check out the live demo here: [Netflix Clone Demo](https://netflix-clone-sigma-seven-98.vercel.app/)
 
 ---
 
